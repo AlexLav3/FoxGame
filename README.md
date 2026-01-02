@@ -10,3 +10,5 @@ Mainly done using cpp instead of blueprints, where possible. In some cases, a co
 Jumping animation was made by me due to not being satisfied with the one found online for free. 
 
 Inventory system in development.
+
+<img width="568" height="718" alt="Fox_game2" src="https://github.com/user-attachments/assets/37143cc0-f7d0-49ba-8e59-28c23e1c00d9" />
